@@ -1,0 +1,9 @@
+
+
+string A=apple
+string B=orange
+
+Copy ctring B on String A
+Note: after copying apple will turn into orange.
+
+STRING A=apple ( length 5) but size 6 including nul.

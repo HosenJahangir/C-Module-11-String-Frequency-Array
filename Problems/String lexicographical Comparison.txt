@@ -1,0 +1,18 @@
+
+
+apple, apply
+apple< apply (because e comes before y)
+
+while loop a condition age hoy.
+
+int i=0;
+while(1) Note: While (1) is an infiniti loop.
+{
+
+}
+
+Test cases:
+abc	abc
+ab	abcd
+abcd	ab
+abcd	adef	
